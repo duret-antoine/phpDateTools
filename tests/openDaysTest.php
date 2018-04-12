@@ -1,5 +1,5 @@
 <?php
-	include('../lib/openDays.php');
+	include('lib/openDays.php');
 	
 	date_default_timezone_set('Europe/Paris');
 	
