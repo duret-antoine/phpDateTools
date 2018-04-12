@@ -13,3 +13,5 @@ Enables to calculate the worked time between 2 timestanps considering :
 * Working hours definition is fixed for everyweek and limited to minutes
 * The result is written in folliwing format : **h:m:s**
 
+## Testing
+[![Build Status](https://travis-ci.org/duret-antoine/phpDateTools.svg?branch=master)](https://travis-ci.org/duret-antoine/phpDateTools)
